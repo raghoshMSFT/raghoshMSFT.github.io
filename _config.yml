@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 aux_links:
-    "Just the Docs on GitHub":
-      - "//github.com/pmarsceill/just-the-docs"
+    "this is a link":
+      - "www.google.com"
 
 search_enabled: true
