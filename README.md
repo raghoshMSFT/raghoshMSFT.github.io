@@ -1,2 +1,2 @@
-# raghoshMSFT.github.io
-trial site
+# Home Page
+This is the main page of the site
